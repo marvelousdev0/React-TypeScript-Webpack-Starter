@@ -4,6 +4,7 @@ export const App = () => {
   return (
     <div className="App">
       <h1>React TypeScript Webpack Starter Template</h1>
+      <p>TODO: Implement scss</p>
     </div>
   )
 }
